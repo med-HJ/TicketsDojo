@@ -1,0 +1,32 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Issue with login",
+      "body": "I am unable to log in to my account. Please help!",
+      "priority": "high",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "2",
+      "title": "Bug in payment processing",
+      "body": "I noticed a bug while processing my payment. Transactions are not going through.",
+      "priority": "medium",
+      "user_email": "user2@example.com"
+    },
+    {
+      "id": "3",
+      "title": "Feature request: Dark mode",
+      "body": "I would love to have a dark mode option in the application. It's easier on the eyes.",
+      "priority": "low",
+      "user_email": "user3@example.com"
+    },
+    {
+      "id": "5c79",
+      "title": "nvb,",
+      "body": "jcgv,b n",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    }
+  ]
+}
